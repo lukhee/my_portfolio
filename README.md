@@ -1,4 +1,4 @@
-# preact-tutorial
+# Creating portfolio using preact libarary
 
 ## CLI Commands
 
